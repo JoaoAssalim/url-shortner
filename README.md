@@ -19,4 +19,4 @@ Next, you have to put URLShortner.exe in a folder to program creat necessary fol
 
 ## Feedback
 
-If you have any feedback, please reach out to us at assalim.py@gmail.com
+If you have any feedback, please reach out to me at assalim.py@gmail.com
