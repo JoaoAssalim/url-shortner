@@ -13,15 +13,6 @@ pip install clipboard
 pip install pyshorteners
 ```
 
-To creat a executable file on windows, run this code in the project directory:
-```sh
-pyinstaller --onefile URLShortner.py
-```
-on Linux:
-```sh
-pyinstaller -F URLShortner.py
-```
-
 After you run the code, will creat two folders and a file.spec, you just have to keep the dist folder, because there, is the URLShortner.exe.
 Next, you have to put URLShortner.exe in a folder to program creat necessary folders/files, and run the aplication.
 
